@@ -1,0 +1,4 @@
+bert-extractive-summarizer
+transformers
+streamlit
+torch
